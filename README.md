@@ -46,5 +46,4 @@
   <li>Build interactive dashboards for better visualization</li>
 </ul>
 
-<h2 style="font-size:2em;">License</h2>
-<p>This project is open-source and available under the MIT License.</p>
+
